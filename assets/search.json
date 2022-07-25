@@ -1,0 +1,33 @@
+
+
+[
+  
+  
+    
+    
+  
+  
+  
+  {
+    "title": "About Me",
+    "excerpt": "\n",
+    "content": "This website is powered by fastpages 1.\n\n\n  \n    \n      a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617;\n    \n  \n\n",
+    "url": "/petclassifier/about/"
+  },
+  
+  {
+    "title": "Search",
+    "excerpt": "\n",
+    "content": "\n\n\n\n\n\n    \n    \n    \n    \n    \n\n",
+    "url": "/petclassifier/search/"
+  },
+  
+  {
+    "title": "Tags",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/petclassifier/categories/"
+  }
+  
+]
+
