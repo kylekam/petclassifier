@@ -26,17 +26,6 @@
   
 
   
-      ,"page6": {
-          "title": "1. Single file",
-          "content": ".",
-          "url": "https://kylekam.github.io/petclassifier/singlefile.html",
-          "relUrl": "/singlefile.html",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -48,7 +37,7 @@
   
 
   
-      ,"page11": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://kylekam.github.io/petclassifier/robots.txt",
